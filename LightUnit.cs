@@ -10,7 +10,7 @@
             _intialCarryCap = this.CarryCap;
         }
 
-        public override IRandomProvider Damage { get => rng; protected set => base.Damage = value; }
+        public override IRandomProvider Damage { get => rng ; protected set => rng = value; }
 
         public abstract int Counters { get; protected set; }
 
