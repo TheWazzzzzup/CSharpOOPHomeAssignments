@@ -1,0 +1,30 @@
+C:\Users\AmitM\OneDrive\מסמכים\C#\Assignments\Brezerkers Assignemnt\obj\Debug\net6.0\Brezerkers Assignemnt.csproj.AssemblyReference.cache
+C:\Users\AmitM\OneDrive\מסמכים\C#\Assignments\Brezerkers Assignemnt\obj\Debug\net6.0\Brezerkers Assignemnt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmitM\OneDrive\מסמכים\C#\Assignments\Brezerkers Assignemnt\obj\Debug\net6.0\Brezerkers Assignemnt.AssemblyInfoInputs.cache
+C:\Users\AmitM\OneDrive\מסמכים\C#\Assignments\Brezerkers Assignemnt\obj\Debug\net6.0\Brezerkers Assignemnt.AssemblyInfo.cs
+C:\Users\AmitM\OneDrive\מסמכים\C#\Assignments\Brezerkers Assignemnt\obj\Debug\net6.0\Brezerkers Assignemnt.csproj.CoreCompileInputs.cache
+C:\Users\AmitM\OneDrive\מסמכים\C#\Assignments\Brezerkers Assignemnt\bin\Debug\net6.0\Brezerkers Assignemnt.exe
+C:\Users\AmitM\OneDrive\מסמכים\C#\Assignments\Brezerkers Assignemnt\bin\Debug\net6.0\Brezerkers Assignemnt.deps.json
+C:\Users\AmitM\OneDrive\מסמכים\C#\Assignments\Brezerkers Assignemnt\bin\Debug\net6.0\Brezerkers Assignemnt.runtimeconfig.json
+C:\Users\AmitM\OneDrive\מסמכים\C#\Assignments\Brezerkers Assignemnt\bin\Debug\net6.0\Brezerkers Assignemnt.dll
+C:\Users\AmitM\OneDrive\מסמכים\C#\Assignments\Brezerkers Assignemnt\bin\Debug\net6.0\Brezerkers Assignemnt.pdb
+C:\Users\AmitM\OneDrive\מסמכים\C#\Assignments\Brezerkers Assignemnt\obj\Debug\net6.0\Brezerkers Assignemnt.dll
+C:\Users\AmitM\OneDrive\מסמכים\C#\Assignments\Brezerkers Assignemnt\obj\Debug\net6.0\refint\Brezerkers Assignemnt.dll
+C:\Users\AmitM\OneDrive\מסמכים\C#\Assignments\Brezerkers Assignemnt\obj\Debug\net6.0\Brezerkers Assignemnt.pdb
+C:\Users\AmitM\OneDrive\מסמכים\C#\Assignments\Brezerkers Assignemnt\obj\Debug\net6.0\Brezerkers Assignemnt.genruntimeconfig.cache
+C:\Users\AmitM\OneDrive\מסמכים\C#\Assignments\Brezerkers Assignemnt\obj\Debug\net6.0\ref\Brezerkers Assignemnt.dll
+D:\Studies\C# Assignments\WIC\Brezerkers Assignemnt Amit Mor Yosef\Brezerkers Assignemnt Amit Mor Yosef\obj\Debug\net6.0\Brezerkers Assignemnt.csproj.AssemblyReference.cache
+D:\Studies\C# Assignments\WIC\Brezerkers Assignemnt Amit Mor Yosef\Brezerkers Assignemnt Amit Mor Yosef\obj\Debug\net6.0\Brezerkers Assignemnt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\C# Assignments\WIC\Brezerkers Assignemnt Amit Mor Yosef\Brezerkers Assignemnt Amit Mor Yosef\obj\Debug\net6.0\Brezerkers Assignemnt.AssemblyInfoInputs.cache
+D:\Studies\C# Assignments\WIC\Brezerkers Assignemnt Amit Mor Yosef\Brezerkers Assignemnt Amit Mor Yosef\obj\Debug\net6.0\Brezerkers Assignemnt.AssemblyInfo.cs
+D:\Studies\C# Assignments\WIC\Brezerkers Assignemnt Amit Mor Yosef\Brezerkers Assignemnt Amit Mor Yosef\obj\Debug\net6.0\Brezerkers Assignemnt.csproj.CoreCompileInputs.cache
+D:\Studies\C# Assignments\WIC\Brezerkers Assignemnt Amit Mor Yosef\Brezerkers Assignemnt Amit Mor Yosef\obj\Debug\net6.0\Brezerkers Assignemnt.dll
+D:\Studies\C# Assignments\WIC\Brezerkers Assignemnt Amit Mor Yosef\Brezerkers Assignemnt Amit Mor Yosef\obj\Debug\net6.0\refint\Brezerkers Assignemnt.dll
+D:\Studies\C# Assignments\WIC\Brezerkers Assignemnt Amit Mor Yosef\Brezerkers Assignemnt Amit Mor Yosef\obj\Debug\net6.0\Brezerkers Assignemnt.pdb
+D:\Studies\C# Assignments\WIC\Brezerkers Assignemnt Amit Mor Yosef\Brezerkers Assignemnt Amit Mor Yosef\bin\Debug\net6.0\Brezerkers Assignemnt.exe
+D:\Studies\C# Assignments\WIC\Brezerkers Assignemnt Amit Mor Yosef\Brezerkers Assignemnt Amit Mor Yosef\bin\Debug\net6.0\Brezerkers Assignemnt.deps.json
+D:\Studies\C# Assignments\WIC\Brezerkers Assignemnt Amit Mor Yosef\Brezerkers Assignemnt Amit Mor Yosef\bin\Debug\net6.0\Brezerkers Assignemnt.runtimeconfig.json
+D:\Studies\C# Assignments\WIC\Brezerkers Assignemnt Amit Mor Yosef\Brezerkers Assignemnt Amit Mor Yosef\bin\Debug\net6.0\Brezerkers Assignemnt.dll
+D:\Studies\C# Assignments\WIC\Brezerkers Assignemnt Amit Mor Yosef\Brezerkers Assignemnt Amit Mor Yosef\bin\Debug\net6.0\Brezerkers Assignemnt.pdb
+D:\Studies\C# Assignments\WIC\Brezerkers Assignemnt Amit Mor Yosef\Brezerkers Assignemnt Amit Mor Yosef\obj\Debug\net6.0\Brezerkers Assignemnt.genruntimeconfig.cache
+D:\Studies\C# Assignments\WIC\Brezerkers Assignemnt Amit Mor Yosef\Brezerkers Assignemnt Amit Mor Yosef\obj\Debug\net6.0\ref\Brezerkers Assignemnt.dll
