@@ -3,8 +3,8 @@
     internal abstract class Unit
     {
         public virtual int CarryCap { get; protected set; } = 10;
-        public virtual IRandomProvider HitChance { get; protected set; }
-        public virtual IRandomProvider Protection { get; protected set; }
+        public virtual IRandomProvider HitChance { get; protected set; } = new Dice();
+        public virtual IRandomProvider Protection { get; protected set; } = new Dice();
         public virtual IRandomProvider Damage { get; protected set; } = new Dice();
         public virtual int Hp { get; protected set; } = 20;
         public virtual void Attack(Unit Defender)
