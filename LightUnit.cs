@@ -51,7 +51,7 @@
             }
             else
             {
-                Hp -= Attacker.Damage.Roll();
+                Hp -= Attacker.Damage.RandomNumber();
                 Console.WriteLine("- - - - - - - - - - - - - -");
                 Console.WriteLine(Attacker.ToString().Substring(22) + " Attacked " + this.ToString().Substring(22));
                 Console.WriteLine(this.ToString().Substring(22) + (this.IsDead ? " Survived The Attack" : " Joined the graveyard"));

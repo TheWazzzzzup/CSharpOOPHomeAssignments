@@ -28,3 +28,18 @@ D:\Studies\C# Assignments\WIC\Brezerkers Assignemnt Amit Mor Yosef\Brezerkers As
 D:\Studies\C# Assignments\WIC\Brezerkers Assignemnt Amit Mor Yosef\Brezerkers Assignemnt Amit Mor Yosef\bin\Debug\net6.0\Brezerkers Assignemnt.pdb
 D:\Studies\C# Assignments\WIC\Brezerkers Assignemnt Amit Mor Yosef\Brezerkers Assignemnt Amit Mor Yosef\obj\Debug\net6.0\Brezerkers Assignemnt.genruntimeconfig.cache
 D:\Studies\C# Assignments\WIC\Brezerkers Assignemnt Amit Mor Yosef\Brezerkers Assignemnt Amit Mor Yosef\obj\Debug\net6.0\ref\Brezerkers Assignemnt.dll
+D:\GitHubLocal\CSharpOOPHomeAssignments\obj\Debug\net6.0\Brezerkers Assignemnt.csproj.AssemblyReference.cache
+D:\GitHubLocal\CSharpOOPHomeAssignments\obj\Debug\net6.0\Brezerkers Assignemnt.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHubLocal\CSharpOOPHomeAssignments\obj\Debug\net6.0\Brezerkers Assignemnt.AssemblyInfoInputs.cache
+D:\GitHubLocal\CSharpOOPHomeAssignments\obj\Debug\net6.0\Brezerkers Assignemnt.AssemblyInfo.cs
+D:\GitHubLocal\CSharpOOPHomeAssignments\obj\Debug\net6.0\Brezerkers Assignemnt.csproj.CoreCompileInputs.cache
+D:\GitHubLocal\CSharpOOPHomeAssignments\obj\Debug\net6.0\Brezerkers Assignemnt.dll
+D:\GitHubLocal\CSharpOOPHomeAssignments\obj\Debug\net6.0\refint\Brezerkers Assignemnt.dll
+D:\GitHubLocal\CSharpOOPHomeAssignments\obj\Debug\net6.0\Brezerkers Assignemnt.pdb
+D:\GitHubLocal\CSharpOOPHomeAssignments\bin\Debug\net6.0\Brezerkers Assignemnt.exe
+D:\GitHubLocal\CSharpOOPHomeAssignments\bin\Debug\net6.0\Brezerkers Assignemnt.deps.json
+D:\GitHubLocal\CSharpOOPHomeAssignments\bin\Debug\net6.0\Brezerkers Assignemnt.runtimeconfig.json
+D:\GitHubLocal\CSharpOOPHomeAssignments\bin\Debug\net6.0\Brezerkers Assignemnt.dll
+D:\GitHubLocal\CSharpOOPHomeAssignments\bin\Debug\net6.0\Brezerkers Assignemnt.pdb
+D:\GitHubLocal\CSharpOOPHomeAssignments\obj\Debug\net6.0\Brezerkers Assignemnt.genruntimeconfig.cache
+D:\GitHubLocal\CSharpOOPHomeAssignments\obj\Debug\net6.0\ref\Brezerkers Assignemnt.dll

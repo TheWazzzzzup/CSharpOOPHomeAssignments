@@ -8,14 +8,14 @@ namespace Brezerkers_Assignemnt
         uint _baseDie;
         int _modifier;
 
-        public Dice(uint scalar, uint baseDie, int modifier)
+        public Dice()
         {
-            _scalar = scalar;
-            _baseDie = baseDie;
-            _modifier = modifier;
+            _scalar = (uint)Random.Shared.Next(0, 5);
+            _baseDie = (uint)Random.Shared.Next(0, 10);
+            _modifier = Random.Shared.Next(-11, 11);
         }
 
-        public int Roll()
+        public int RandomNumber()
         {
             int diceResualt = _modifier;
             for (int i = 0; i < _scalar; i++)
@@ -23,6 +23,7 @@ namespace Brezerkers_Assignemnt
                 diceResualt += Random.Shared.Next(0, (int)_baseDie + 1);
             }
             return diceResualt;
+            
         }
 
         public override string ToString()
@@ -56,6 +57,14 @@ namespace Brezerkers_Assignemnt
             return (byte)((_baseDie / 16) + (_modifier * 27) + MathF.Sqrt(_scalar));
         }
 
-
+        //public int Roll()
+        //{
+        //    int diceResualt = _modifier;
+        //    for (int i = 0; i < _scalar; i++)
+        //    {
+        //        diceResualt += Random.Shared.Next(0, (int)_baseDie + 1);
+        //    }
+        //    return diceResualt;
+        //}
     }
 }
