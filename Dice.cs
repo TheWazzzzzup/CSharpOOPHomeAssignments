@@ -2,7 +2,7 @@
 
 namespace Brezerkers_Assignemnt
 {
-    public struct Dice
+    public struct Dice : IRandomProvider
     {
         uint _scalar;
         uint _baseDie;
