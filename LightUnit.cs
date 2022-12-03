@@ -3,11 +3,14 @@
     internal abstract class LightUnit : Unit
     {
         private int _intialCarryCap;
+        private IRandomProvider rng = new Bag();
 
         public LightUnit()
         {
             _intialCarryCap = this.CarryCap;
         }
+
+        public override IRandomProvider Damage { get => rng; protected set => base.Damage = value; }
 
         public abstract int Counters { get; protected set; }
 

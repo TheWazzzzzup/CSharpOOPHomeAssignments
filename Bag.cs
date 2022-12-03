@@ -22,7 +22,6 @@ namespace Brezerkers_Assignemnt
             }
         }
 
-
         public int RandomNumber()
         {
             if (_oddSeriesList.Count == 0)
