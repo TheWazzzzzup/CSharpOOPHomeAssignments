@@ -43,7 +43,7 @@ namespace Brezerkers_Assignemnt
             }
             else
             {
-                int listIndexer = Random.Shared.Next(0, _oddSeriesList.Count);
+                int listIndexer = Random.Shared.Next(0, _evenSeriesList.Count);
                 int listValue = _evenSeriesList[listIndexer];
                 _oddSeriesList.Add(listValue);
                 _evenSeriesList.Remove(listValue);
