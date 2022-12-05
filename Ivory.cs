@@ -10,12 +10,14 @@
     sealed class IvoryHeavy : HeavyUnit
     {
         private int _initMultiplier = 1;
+
         public override float Multiplier { get => _initMultiplier; protected set => this._initMultiplier = (int)(value * 1.2); }
     }
 
     sealed class TinyNote : HeavyUnit
     {
         private int _initMultiplier = 1;
+
         public override float Multiplier { get => _initMultiplier; protected set => this._initMultiplier = (int)(value * 0.2); }
     }
 }

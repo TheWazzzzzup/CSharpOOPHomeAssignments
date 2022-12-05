@@ -4,11 +4,6 @@
     {
         private int _intialCarryCap;
 
-        public HeavyUnit()
-        {
-            _intialCarryCap = this.CarryCap;
-        }
-
         public abstract float Multiplier { get; protected set; }
         public override int Hp { protected set => base.Hp = (int)(value * Multiplier); }
 

@@ -6,6 +6,7 @@ namespace Brezerkers_Assignemnt
     {
         uint _scalar;
         uint _baseDie;
+
         int _modifier;
 
         public Dice()

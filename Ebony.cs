@@ -3,6 +3,7 @@
     sealed class EbonyHeavy : HeavyUnit
     {
         private int _initMultiplier = 1;
+
         public override float Multiplier { get => _initMultiplier; protected set => this._initMultiplier = (int)(value * 1.5); }
 
     }
@@ -18,6 +19,7 @@
     sealed class EbonyBoss : HeavyUnit
     {
         private int _initMultiplier = 1;
+
         public override float Multiplier { get => _initMultiplier; protected set => this._initMultiplier = (int)(value * 4.5); }
     }
 }
