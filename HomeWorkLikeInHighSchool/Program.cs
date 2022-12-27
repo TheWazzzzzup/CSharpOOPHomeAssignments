@@ -1,8 +1,14 @@
-﻿LimitedList withoutS = new((s) => !s.StartsWith("s"));
+﻿LimitedList withoutS = new((s) => s.StartsWith("s"));
 withoutS.AddWithPrerequeset("sharon");
 withoutS.AddWithPrerequeset("shay");
 withoutS.AddWithPrerequeset("shnitzel");
 withoutS.AddWithPrerequeset("rotem");
+withoutS.AddWithPrerequeset("rotem7");
+withoutS.AddWithPrerequeset("rotem5");
+withoutS.AddWithPrerequeset("rotem3");
+withoutS.AddWithPrerequeset("rotem9");
+withoutS.AddWithPrerequeset("rotem6");
+withoutS.AddWithPrerequeset("rotem2");
 
 withoutS.PrintAll();
 
