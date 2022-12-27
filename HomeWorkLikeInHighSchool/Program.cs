@@ -1,15 +1,10 @@
-﻿static void main(string[] args)
-{
+﻿LimitedList withoutS = new((s) => !s.StartsWith("s"));
+withoutS.AddWithPrerequeset("sharon");
+withoutS.AddWithPrerequeset("shay");
+withoutS.AddWithPrerequeset("shnitzel");
+withoutS.AddWithPrerequeset("rotem");
 
-    Console.WriteLine("hey");
-
-    LimitedList withoutS = new((s) => !s.StartsWith("s"));
-    withoutS.AddWithPrerequeset("sharon");
-    withoutS.AddWithPrerequeset("notsharon");
-    withoutS.PrintAll();
-
-
-}
+withoutS.PrintAll();
 
 public class LimitedList
 {
@@ -41,6 +36,4 @@ public class LimitedList
             Console.WriteLine(input);
         }
     }
-    // this is your code with diffrenet names :)
 }
-

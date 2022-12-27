@@ -43,3 +43,11 @@ D:\GitHubLocal\CSharpOOPHomeAssignments\bin\Debug\net6.0\Brezerkers Assignemnt.d
 D:\GitHubLocal\CSharpOOPHomeAssignments\bin\Debug\net6.0\Brezerkers Assignemnt.pdb
 D:\GitHubLocal\CSharpOOPHomeAssignments\obj\Debug\net6.0\Brezerkers Assignemnt.genruntimeconfig.cache
 D:\GitHubLocal\CSharpOOPHomeAssignments\obj\Debug\net6.0\ref\Brezerkers Assignemnt.dll
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\obj\Debug\net6.0\Brezerkers Assignemnt.csproj.AssemblyReference.cache
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\obj\Debug\net6.0\Brezerkers Assignemnt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\obj\Debug\net6.0\Brezerkers Assignemnt.AssemblyInfoInputs.cache
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\obj\Debug\net6.0\Brezerkers Assignemnt.AssemblyInfo.cs
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\obj\Debug\net6.0\Brezerkers Assignemnt.csproj.CoreCompileInputs.cache
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\obj\Debug\net6.0\Brezerkers Assignemnt.dll
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\obj\Debug\net6.0\refint\Brezerkers Assignemnt.dll
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\obj\Debug\net6.0\Brezerkers Assignemnt.pdb

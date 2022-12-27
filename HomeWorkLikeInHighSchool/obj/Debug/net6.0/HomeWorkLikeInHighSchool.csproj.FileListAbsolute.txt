@@ -1,0 +1,15 @@
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\HomeWorkLikeInHighSchool\bin\Debug\net6.0\HomeWorkLikeInHighSchool.exe
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\HomeWorkLikeInHighSchool\bin\Debug\net6.0\HomeWorkLikeInHighSchool.deps.json
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\HomeWorkLikeInHighSchool\bin\Debug\net6.0\HomeWorkLikeInHighSchool.runtimeconfig.json
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\HomeWorkLikeInHighSchool\bin\Debug\net6.0\HomeWorkLikeInHighSchool.dll
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\HomeWorkLikeInHighSchool\bin\Debug\net6.0\HomeWorkLikeInHighSchool.pdb
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\HomeWorkLikeInHighSchool\obj\Debug\net6.0\HomeWorkLikeInHighSchool.csproj.AssemblyReference.cache
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\HomeWorkLikeInHighSchool\obj\Debug\net6.0\HomeWorkLikeInHighSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\HomeWorkLikeInHighSchool\obj\Debug\net6.0\HomeWorkLikeInHighSchool.AssemblyInfoInputs.cache
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\HomeWorkLikeInHighSchool\obj\Debug\net6.0\HomeWorkLikeInHighSchool.AssemblyInfo.cs
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\HomeWorkLikeInHighSchool\obj\Debug\net6.0\HomeWorkLikeInHighSchool.csproj.CoreCompileInputs.cache
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\HomeWorkLikeInHighSchool\obj\Debug\net6.0\HomeWorkLikeInHighSchool.dll
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\HomeWorkLikeInHighSchool\obj\Debug\net6.0\refint\HomeWorkLikeInHighSchool.dll
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\HomeWorkLikeInHighSchool\obj\Debug\net6.0\HomeWorkLikeInHighSchool.pdb
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\HomeWorkLikeInHighSchool\obj\Debug\net6.0\HomeWorkLikeInHighSchool.genruntimeconfig.cache
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\HomeWorkLikeInHighSchool\obj\Debug\net6.0\ref\HomeWorkLikeInHighSchool.dll

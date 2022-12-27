@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Assigenments\\CSharpOOPHomeAssignments\\Brezerkers Assignemnt.csproj": {}
+    "C:\\Projects\\Assigenments\\CSharpOOPHomeAssignments\\HomeWorkLikeInHighSchool\\HomeWorkLikeInHighSchool.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Assigenments\\CSharpOOPHomeAssignments\\Brezerkers Assignemnt.csproj": {
+    "C:\\Projects\\Assigenments\\CSharpOOPHomeAssignments\\HomeWorkLikeInHighSchool\\HomeWorkLikeInHighSchool.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Assigenments\\CSharpOOPHomeAssignments\\Brezerkers Assignemnt.csproj",
-        "projectName": "Brezerkers Assignemnt",
-        "projectPath": "C:\\Projects\\Assigenments\\CSharpOOPHomeAssignments\\Brezerkers Assignemnt.csproj",
+        "projectUniqueName": "C:\\Projects\\Assigenments\\CSharpOOPHomeAssignments\\HomeWorkLikeInHighSchool\\HomeWorkLikeInHighSchool.csproj",
+        "projectName": "HomeWorkLikeInHighSchool",
+        "projectPath": "C:\\Projects\\Assigenments\\CSharpOOPHomeAssignments\\HomeWorkLikeInHighSchool\\HomeWorkLikeInHighSchool.csproj",
         "packagesPath": "C:\\Users\\AmitM\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Assigenments\\CSharpOOPHomeAssignments\\obj\\",
+        "outputPath": "C:\\Projects\\Assigenments\\CSharpOOPHomeAssignments\\HomeWorkLikeInHighSchool\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AmitM\\AppData\\Roaming\\NuGet\\NuGet.Config",
