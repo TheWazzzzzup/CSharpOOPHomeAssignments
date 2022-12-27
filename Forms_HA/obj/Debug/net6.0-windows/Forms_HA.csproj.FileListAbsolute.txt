@@ -1,0 +1,17 @@
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\Forms_HA\bin\Debug\net6.0-windows\Forms_HA.exe
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\Forms_HA\bin\Debug\net6.0-windows\Forms_HA.deps.json
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\Forms_HA\bin\Debug\net6.0-windows\Forms_HA.runtimeconfig.json
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\Forms_HA\bin\Debug\net6.0-windows\Forms_HA.dll
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\Forms_HA\bin\Debug\net6.0-windows\Forms_HA.pdb
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\Forms_HA\obj\Debug\net6.0-windows\Forms_HA.csproj.AssemblyReference.cache
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\Forms_HA\obj\Debug\net6.0-windows\Forms_HA.Form1.resources
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\Forms_HA\obj\Debug\net6.0-windows\Forms_HA.csproj.GenerateResource.cache
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\Forms_HA\obj\Debug\net6.0-windows\Forms_HA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\Forms_HA\obj\Debug\net6.0-windows\Forms_HA.AssemblyInfoInputs.cache
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\Forms_HA\obj\Debug\net6.0-windows\Forms_HA.AssemblyInfo.cs
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\Forms_HA\obj\Debug\net6.0-windows\Forms_HA.csproj.CoreCompileInputs.cache
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\Forms_HA\obj\Debug\net6.0-windows\Forms_HA.dll
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\Forms_HA\obj\Debug\net6.0-windows\refint\Forms_HA.dll
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\Forms_HA\obj\Debug\net6.0-windows\Forms_HA.pdb
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\Forms_HA\obj\Debug\net6.0-windows\Forms_HA.genruntimeconfig.cache
+C:\Projects\Assigenments\CSharpOOPHomeAssignments\Forms_HA\obj\Debug\net6.0-windows\ref\Forms_HA.dll
