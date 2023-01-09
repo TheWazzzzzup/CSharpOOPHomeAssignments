@@ -4,7 +4,7 @@ interface IGenericList<T>
 {
     void Store(T value);
 
-    T Retrive(T value);
+    T Retrive(int value);
 
     bool Unique(T value);
 }
@@ -14,9 +14,9 @@ class GenericList<T> : IGenericList<T> where T : class
     T[] array = new T[10];
     int indexer = 0;
 
-    public T Retrive(T value)
+    public T Retrive(int index)
     {
-        throw new NotImplementedException();
+        return array[index];
     }
 
     public void Store(T value)
