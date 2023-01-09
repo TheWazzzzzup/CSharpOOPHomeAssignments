@@ -1,31 +1,34 @@
-﻿/// <summary>
-/// Every tree or branch start as a stem, i think 
-/// </summary>
-/// <typeparam name="T1">The self defined value of said branch</typeparam>
-/// <typeparam name="T2">The Type of the Branch sons</typeparam>
-class Stem<T1,T2> where T2 : class
+﻿
+
+
+using System.Collections;
+
+class Simple<T> : IEnumerable<T>
 {
-    T1 Identity { get; set; }
-    T2? LeftChild { get; set; }
-    T2? RightChild { get; set; }
-
-    void DepthFirst()
+    public IEnumerator<T> GetEnumerator()
     {
-
+        throw new NotImplementedException();
     }
 
-    void BreadthFirst()
-    {
-
-    }
+    IEnumerator IEnumerable.GetEnumerator() => GetEnumerator();
 }
 
+struct SimleStruct<T> : IEnumerator<T>
+{
+    List<T> _list;
+    int _index = -1;
 
-/*
- * Create a generic Binary Tree
- * Tree Will Hold 3 fields
- * 1. generic Self; 2. Generic Left; 3.Generic Right (Left and right may use the same Generic but it is kind of cool if they wont)
- * Research some more on IEnumerable and IEnumrator 
- * Create depth-first search, searches Each Branch childs and then moves on
- * create Breadth-first search, showes each level then moves 
- */
+    public SimleStruct(List<T> list) => _list = list;
+
+    public T Current => _list[_index];
+
+    public bool MoveNext()
+    {
+        _index++;
+        return _index < _list.Count;
+    }
+
+    object IEnumerator.Current => Current;
+    public void Dispose() { }
+    public void Reset() { }
+}
