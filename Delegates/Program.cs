@@ -6,3 +6,16 @@
  * Create depth-first search, searches Each Branch childs and then moves on
  * create Breadth-first search, showes each level then moves 
  */
+
+/// <summary>
+/// 
+/// </summary>
+/// <typeparam name="T1">The self defined value of said branch</typeparam>
+/// <typeparam name="T2">The Type of the Branch</typeparam>
+class Stem<T1,T2>
+{
+    T1 Identity { get; set; }
+
+    T2 LeftChild { get; set; }
+    T2 RightChild { get; set; }
+}
