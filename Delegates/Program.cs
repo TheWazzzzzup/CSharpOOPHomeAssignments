@@ -9,7 +9,7 @@ interface IGenericList<T>
     bool Unique(T value);
 }
 
-class GenericList<T> : IGenericList<T>
+class GenericList<T> : IGenericList<T> where T : class
 {
     T[] array = new T[10];
     int indexer = 0;
